@@ -1,4 +1,4 @@
-const scriptURL = "https://script.google.com/macros/s/AKfycbzbyV64hZEF0T6OaEM0d4am7QlufbxbqhBHZH_TULWFGuzJKRo2l9lAm8WzvsO2Zz6kuQ/exec";
+const scriptURL = "https://script.google.com/macros/s/AKfycbxCi2iat2YMZMj5-zBP2P50BYCf8mN53pCmiZcwTIy0COs8_Q1Glyz4nMMHKHAMCA3h0A/exec";
 
 async function apiCall(data) {
     try {
