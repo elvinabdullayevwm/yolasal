@@ -1,0 +1,7 @@
+Yenilənmiş düzəlişlər:
+- Duplicate doPost problemi həll edildi
+- API error handling düzəldildi
+- Login response JSON edildi
+- Fake success sistemi silindi
+- Order ID sistemi stabilləşdirildi
+- Backend routing təmizləndi
